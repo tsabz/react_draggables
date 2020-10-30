@@ -6,7 +6,6 @@ import Example from './example'
 function App() {
   return (    
     <>
-  <Example />
     </>
   );
 }
