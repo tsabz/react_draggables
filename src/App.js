@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Example from './example'
+
+
 
 function App() {
-  return (
+  return (    
     <>
-    <h1>hello</h1>
+  <Example />
     </>
   );
 }
